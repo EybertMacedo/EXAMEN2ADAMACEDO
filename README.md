@@ -1,1 +1,1 @@
-![alt text](http:DijkstraPregunta4.png)
+![Screenshot](DijkstraPregunta4.png)
